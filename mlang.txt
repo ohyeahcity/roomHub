@@ -8,6 +8,8 @@
 
       "lang_navch": "TW - 繁體中文",
       "lang_naven": "EN - 英文",
+
+      "lang_navsho": "線上商店",      
       
       "lang_bannertitle": "有了智能小管家<br>原來智慧生活這麼簡單",
       
@@ -66,6 +68,8 @@
 
       "lang_navch": "TW - Chinese",
       "lang_naven": "EN - English",
+
+      "lang_navsho": "Online Shop", 
       
       "lang_bannertitle": "Ripple Control - <br>Turn your phone into the remote control for all your smart appliances",
       
