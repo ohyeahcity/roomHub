@@ -67,7 +67,7 @@
       "lang_navch": "TW - Chinese",
       "lang_naven": "EN - English",
       
-      "lang_bannertitle": "Ripple Control - <br>Turn your phone into the remote control for all your smart appliances",
+      "lang_bannertitle": "Ripple Control - <br>Turn your phone into the remote control for all your smart appliances",
       
       "lang_bannerdownload": "Download APP",
 
