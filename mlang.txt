@@ -58,14 +58,14 @@
    },
    {
     
-      "lang_title": "歡迎來到EQL - 智能小管家網站",
+      "lang_title": "Welcome to EQL - Ripple Control",
       "lang_nav_feature": "Product",
       "lang_nav_contact": "Contact us",
       "lang_nav_download": "Download",
       "lang_nav_faq": "FAQ",
 
-      "lang_navch": "TW - 繁體中文",
-      "lang_naven": "EN - 英文",
+      "lang_navch": "TW - Chinese",
+      "lang_naven": "EN - English",
       
       "lang_bannertitle": "Ripple Control - <br>Turn your phone into the remote control for all your smart appliances",
       
@@ -87,7 +87,7 @@
       "lang_featureicon04_cont": "Built-in Temperature&Humidity Detector",
 
       "lang_cftitle":"Your Home Appliances Controller",
-      "lang_cfcont":"以前您等待清涼，現在清涼等待您",
+      "lang_cfcont":"",
 
       "lang_worktitle":"Application Diagram",
       
