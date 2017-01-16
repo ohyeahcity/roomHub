@@ -796,6 +796,9 @@ h1, h2
 	.eng .five{
 		display: none;
 	} 
+	.eng #lang_cfcont{
+		display: none;
+	}
 	
 	.promotebg {
 		background:url(../images/bg_product.jpg) center no-repeat;
