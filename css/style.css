@@ -303,6 +303,10 @@ h1, h2
 		{
 		text-align:left;
 		}
+		.eng .boxD p
+		{
+		text-align:center;
+		}		
 	}
 	
 	@media (max-width:768px){
@@ -314,6 +318,10 @@ h1, h2
 		{
 		text-align:left;
 		}
+		.eng .boxD p
+		{
+		text-align:center;
+		}		
 	}
 	
 	.row
