@@ -679,9 +679,9 @@ h1, h2
 		padding:80px 0px;
 	}
 	
-	 .bggray h6 {
+	.bggray h6 {
 		  margin-bottom:10px;
-	  }
+	}
 	  
 	 
 	
@@ -699,8 +699,7 @@ h1, h2
 		
 		.bggray h5 {
 		 font-size:20px;
-	 }
-		
+	 	}	
 		
 	}
 	
@@ -784,7 +783,7 @@ h1, h2
 	
 	@media (max-width:552px){
 		.uiimg {
-			min-height:800px;
+			min-height:900px;
 			background-size:90%;
 		}
 		.eng .uiimg {
@@ -804,7 +803,6 @@ h1, h2
 			background-size:80%;
 		}
 	}
-	
 		
 	
 	
