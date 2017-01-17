@@ -752,6 +752,11 @@ h1, h2
 			min-height:1100px;
 			background-size:80%;
 		}
+
+		.eng .uiimg {
+			min-height:1100px;
+			background-size:80%;
+		}
 	}
 	
 	@media (max-width:992px){
@@ -759,10 +764,18 @@ h1, h2
 			min-height:1000px;
 			background-size:80%;
 		}
+		.eng .uiimg {
+			min-height:1000px;
+			background-size:80%;
+		}
 	}
 	
 	@media (max-width:768px){
 		.uiimg {
+			min-height:900px;
+			background-size:80%;
+		}
+		.eng .uiimg {
 			min-height:900px;
 			background-size:80%;
 		}
@@ -774,11 +787,19 @@ h1, h2
 			min-height:800px;
 			background-size:90%;
 		}
+		.eng .uiimg {
+			min-height:800px;
+			background-size:90%;
+		}
 	}
 	
 	
 	@media (max-width:403px){
 		.uiimg {
+			min-height:800px;
+			background-size:80%;
+		}
+		.eng .uiimg {
 			min-height:800px;
 			background-size:80%;
 		}
