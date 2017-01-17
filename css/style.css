@@ -783,11 +783,11 @@ h1, h2
 	
 	@media (max-width:552px){
 		.uiimg {
-			min-height:900px;
+			min-height:800px;
 			background-size:90%;
 		}
 		.eng .uiimg {
-			min-height:800px;
+			min-height:900px;
 			background-size:90%;
 		}
 	}
@@ -803,6 +803,7 @@ h1, h2
 			background-size:80%;
 		}
 	}
+	
 		
 	
 	
